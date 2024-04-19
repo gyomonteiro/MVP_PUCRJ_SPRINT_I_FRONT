@@ -11,4 +11,4 @@ Mais especificamente, para os códigos aqui encaminhados, será explorado o **fr
 
 Basta fazer o download do projeto e abrir o arquivo index.html no browser de sua preferência.
 
-Não esqueça de estar com o backend rodando para que seja possível os testes do frontend. (https://github.com/HumbertoSGoncalves/PUCRJ_Backend_MVP_SprintI.git)
+Não esqueça de estar com o backend rodando para que seja possível os testes do frontend https://github.com/gyomonteiro/MVP_PUCRJ_SPRINT_I_FRONT.git.
